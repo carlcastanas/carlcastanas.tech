@@ -267,6 +267,7 @@ body.dark-theme {
 .profile__buttons {
   column-gap: 1rem;
   padding: 5px;
+
 }
 
 .profile__buttons-small {
@@ -280,7 +281,7 @@ body.dark-theme {
   column-gap: .5rem;
   background-color: var(--first-color);
   color: #fff;
-  padding: 1.15rem 1.5rem;
+  padding: .45rem 1.5rem;
   border-radius: .5rem;
   transition: .3s;
   box-shadow: 0 8px 24px hsla(var(--hue), var(--sat), var(--lig), .25);
