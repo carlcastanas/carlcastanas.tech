@@ -174,7 +174,7 @@ body.dark-theme {
   color: var(--title-color);
   column-gap: .20rem;
   position: absolute;
-  top: 1.7rem;
+  top: 2.01rem;
   font-size: 1rem;
   right: 1;
 }
